@@ -41,19 +41,10 @@ If there is a harvest, give a start oh, this project open source free reading, d
 
 中国用户请使用 gitee 版访问阅读
 
-## 4.Contact :vibration_mode:
-
-我为什么网名叫蚂蚁，我希望我能够像蚂蚁一样，虽然身体小但是力量大，希望你们也一样！如果发现文章有错误，请即时联系我！
-
-Why do I net name is ant, I hope I can be like ant, although the body is small but the strength is big, I hope you are the same! If you find any errors in this article, please contact me immediately!
-
 WeChat：
 
 <img src="./docs/.vuepress/public/weixin.jpeg" width="200" />
 
-## 5. Sponsorship
-
-![赞助渠道 Sponsorship channels](./image/money.f845196d.png)
 
 ### Appreciation List:art:
 
