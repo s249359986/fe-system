@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script src="./promise.js"></script>
+    <script>
+        new Promise(function(resolve,reject){
+            setTimeout(()=>{
+                resolve(999)
+                console.log(23332)
+            })
+        }).then((data)=>{
+            console.log(888,data)
+            return 6
+        }).then(data=>{
+            console.log('第二个then',data)
+        })
+
+    </script>
+</body>
+</html>
